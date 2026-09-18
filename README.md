@@ -14,8 +14,33 @@ A Quora-inspired web application built using Node.js and Express.js that demonst
 
 - Node.js
 - Express.js
-- RESTful API
 - EJS
 - HTML
 - CSS
 - JavaScript
+
+## Concepts Used
+
+- RESTful Routing
+- CRUD Operations
+- HTTP Methods
+- Express.js Routing
+- Dynamic web Pages
+
+## CRUD Operations
+- **Create** - Create a new post
+- **Read** - View posts and post details
+- **Update** - Edit an existing post
+- **Delete** - Delete a post
+
+## Project Structure
+
+Quora-Posts/
+|
+|--- public/
+|--- views/
+|--- .gitignore
+|--- README.md
+|--- index.js
+|--- package-lock.json
+|--- package.json
