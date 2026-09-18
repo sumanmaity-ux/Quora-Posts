@@ -35,6 +35,7 @@ A Quora-inspired web application built using Node.js and Express.js that demonst
 
 ## Project Structure
 
+```text
 Quora-Posts/
 |
 |--- public/
@@ -44,3 +45,4 @@ Quora-Posts/
 |--- index.js
 |--- package-lock.json
 |--- package.json
+```
